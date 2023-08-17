@@ -1,5 +1,5 @@
 # CSGOROLL-BOT
-The best CSGORoll bot. Whether you are a Trader or a Gambler, we have the features for you. 
+The best CSGORoll bot. Whether you are a Trader or a Gambler, we have the features for you. </br>
 Last update: 16 August 2023
 
 # Download
