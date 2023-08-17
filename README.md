@@ -2,13 +2,13 @@
 The best CSGORoll bot. Whether you are a Trader or a Gambler, we have the features for you. Last update: 16 August 2023
 
 # Download
-You can get access to our bot <a href="https://whop.com/betterroll/">on our website</a>.
+You can get access to our bot <strong><a href="https://whop.com/betterroll/">on our website</a></strong> *(https://whop.com/betterroll/)*.
 
 ## Features
 Here are some of the main features that we have and we are constantly working on new ones.
 
 ### For Traders
-- Insta-withdraw 0% items
+- Insta-withdraw popular 0% items
 - Auto-accept trades
 - Filter by stickers
 - Compare prices to other marketplaces and filter by expected ROI
