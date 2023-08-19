@@ -15,10 +15,11 @@ Here are some of the main features that we have and we are constantly working on
 - Compare prices to other marketplaces and filter by expected ROI
 - Convert item price to your currency
 
-### For Gamblers
+### For Players
 - Auto-better for roulette
 - Auto-call bots
 - Show total pulled per side in 2v2 battles
+- Auto-join gem giveaways
 
 ### For All
 - Chat Manager : Mute spammers and annoying or toxic users.
