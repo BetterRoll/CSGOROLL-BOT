@@ -1,6 +1,6 @@
 # CSGOROLL-BOT
 The best CSGORoll bot. Whether you are a Trader or a Gambler, we have the features for you. </br>
-Last update: 16 August 2023
+Last update: 17 August 2023
 
 # Download
 You can get access to our bot <strong><a href="https://whop.com/betterroll/">on our website</a></strong> *(https://whop.com/betterroll/)*.
