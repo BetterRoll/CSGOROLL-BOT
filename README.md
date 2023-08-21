@@ -19,7 +19,7 @@ Here are some of the main features that we have and we are constantly working on
 - Auto-better for roulette
 - Auto-call bots
 - Show total pulled per side in 2v2 battles
-- Auto-join Gem (coconut & golde coconut) giveaways
+- Auto-join Gem (coconut & golden coconut) giveaways
 
 ### For All
 - Chat Manager : Mute spammers and annoying or toxic users. EyeMode.
