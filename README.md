@@ -11,7 +11,7 @@ You can get access to our bot <strong><a href="https://whop.com/betterroll/">on 
 
 # Main Features
 Here are the main features that we have and we are constantly working on new ones.
-- Insta-withdraw popular 0% items
+- Insta-withdraw popular items
 - Auto-accept trades
 - Filter by stickers
 - Compare prices to other marketplaces and filter by expected ROI
