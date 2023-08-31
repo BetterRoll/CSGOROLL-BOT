@@ -22,3 +22,5 @@ Here are the main features that we have and we are constantly working on new one
 - Auto-join Gem (coconut & golden coconut) giveaways
 - Chat Manager : Mute spammers and annoying or toxic users. EyeMode.
 - Social : Follow your friends and favorite content creators. (Their battles will be shown at the top of the page.)
+
+# <a href="https://github.com/BetterRoll/CSGOROLL-BOT/releases/tag/1.1.0">Read About Upcoming Update</a>
