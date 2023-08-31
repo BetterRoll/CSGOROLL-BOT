@@ -23,5 +23,7 @@ Here are the main features that we have and we are constantly working on new one
 - Chat Manager : Mute spammers and annoying or toxic users. EyeMode.
 - Social : Follow your friends and favorite content creators. (Their battles will be shown at the top of the page.)
 
-## <a href="https://github.com/BetterRoll/CSGOROLL-BOT/releases/tag/1.1.0">Read About Upcoming Update v1.1.0 _Friday, September 1 2023 @ 7:00PM GMT_</a> 
+## <a href="https://github.com/BetterRoll/CSGOROLL-BOT/releases/tag/1.1.0">Read About Upcoming Update v1.1.0</a>
+_Eta.: Friday, September 1 2023 @ 7:00PM GMT_
 ## <a href="https://github.com/BetterRoll/CSGOROLL-BOT/releases/tag/1.1.1">Read About Upcoming Update v1.1.1</a>
+_Eta.: TBD_
